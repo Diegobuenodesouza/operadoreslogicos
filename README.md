@@ -1,0 +1,2 @@
+# operadoreslogicos
+operadoreslogicos
